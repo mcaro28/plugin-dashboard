@@ -1,2 +1,26 @@
-{}
-
+{
+    "name": "plugin-dashboard",
+    "version": "1.0.0",
+    "description": "Generate dashboard",
+    "main": "plugins.js",
+    "files": [
+      "plugins.js"
+    ],
+    "repository": "https://github.com/mcaro28/plugin-dashboard.git",
+    "keywords": [
+      "plugins"
+    ],
+    "author": {
+      "name": "nadie",
+      "email": "hello@nadie.com.co",
+      "url": "http://nadie.com.co"
+    },
+    "license": "MJ",
+    "readmeFilename": "Readme.md",
+    "engines": {
+      "node": ">=4"
+    },
+    "devDependencies": {
+        "jquery": "^3.3.1"
+    }
+  }
